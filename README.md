@@ -1,1 +1,1 @@
-# price_prediction_of_Gold_upto_2031
+# Price_Prediction_of_Gold_upto_2031
